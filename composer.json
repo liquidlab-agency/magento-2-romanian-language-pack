@@ -1,0 +1,13 @@
+{
+  "name": "liquidlab-agency/magento2-romanian-language-pack",
+  "description": "Romanian language package for Magento 2",
+  "type": "magento2-language",
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
